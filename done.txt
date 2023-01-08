@@ -1,0 +1,11 @@
+groceries
+gym
+walk the dog
+meditate
+call john
+laundry
+lift
+item 1
+go to the dr
+visit the vet
+play baseball
